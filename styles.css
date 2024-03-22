@@ -111,7 +111,8 @@ a{
 #hero button{
     padding: 10px 40px;
     margin-top: 20px;
-     background-color: #fff;;
+     background-color: #fff;
+    border: 1px solid;
 }
 #hero button:hover{
   
