@@ -5,5 +5,7 @@ Introducing 'BudgetBites,' a sophisticated cooking partner carefully chosen to e
 Our app provides a wide selection of inexpensive recipes that can be customized to fit a variety of palates and culinary abilities.
 'BudgetBites' becomes your go-to kitchen companion whether you're looking to cook a frugal weekday supper or a gourmet treat for the weekend.
 We think that learning to cook on a budget should be a rewarding and pleasurable experience, and our software is designed to make every stage
-of this culinary journey easier.
+of this culinary journey easier. <br>
 <a href="https://budgetbites.vercel.app/index.html">View Live site</a>
+<br>
+<img src="C:\Users\mahar\OneDrive\Desktop\1.png" alt="" >
