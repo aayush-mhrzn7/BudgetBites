@@ -6,6 +6,17 @@ Our app provides a wide selection of inexpensive recipes that can be customized 
 'BudgetBites' becomes your go-to kitchen companion whether you're looking to cook a frugal weekday supper or a gourmet treat for the weekend.
 We think that learning to cook on a budget should be a rewarding and pleasurable experience, and our software is designed to make every stage
 of this culinary journey easier. <br>
-<a href="https://budgetbites.vercel.app/index.html">View Live site</a>
 <br>
-<img src="C:\Users\mahar\OneDrive\Desktop\1.png" alt="" >
+<img src="1.png" alt="" >
+<br>
+<br>
+<img src="2.png" alt="" >
+<br>
+<br>
+<img src="3.png" alt="" >
+<br>
+<br>
+<img src="4.png" alt="" >
+<br>
+<br>
+<a href="https://budgetbites.vercel.app/index.html">View Live site</a>
